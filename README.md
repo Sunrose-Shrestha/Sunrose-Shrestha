@@ -14,28 +14,6 @@
 
 ---
 
-### Connect with me:
-
-(./img/globe-light.svg)](https://sunroseshrestha.netlify.app#gh-light-mode-only)
-(./img/globe-dark.svg)](https://sunroseshrestha.netlify.app#gh-dark-mode-only)
-&nbsp;&nbsp;
-(./img/youtube-light.svg)](https://www.youtube.com/channel/UCJ_-_Mw9_Y9h2R4Lcla7JHQ#gh-light-mode-only)
-(./img/youtube-dark.svg)](https://www.youtube.com/channel/UCJ_-_Mw9_Y9h2R4Lcla7JHQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-(./img/twitter-light.svg)](https://twitter.com/The_Sunrose#gh-light-mode-only)
-(./img/twitter-dark.svg)](https://twitter.com/The_Sunrose#gh-dark-mode-only)
-&nbsp;&nbsp;
-(./img/linkedin-light.svg)](https://www.linkedin.com/in/sunrose-shrestha-3406781b6/#gh-light-mode-only)
-(./img/linkedin-dark.svg)](https://www.linkedin.com/in/sunrose-shrestha-3406781b6/#gh-dark-mode-only)
-&nbsp;&nbsp;
-(./img/instagram-light.svg)](https://instagram.com/5_feet__11#gh-light-mode-only)
-(./img/instagram-dark.svg)](https://instagram.com/5_feet__11#gh-dark-mode-only)
-
-<br />
-<br />
-
----
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
