@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://sunroseshrestha.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://sunroseshrestha.netlify.app#gh-dark-mode-only)
+[![website](./globe-light.svg)](https://sunroseshrestha.netlify.app#gh-light-mode-only)
+[![website](./globe-dark.svg)](https://sunroseshrestha.netlify.app#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCJ_-_Mw9_Y9h2R4Lcla7JHQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCJ_-_Mw9_Y9h2R4Lcla7JHQ#gh-dark-mode-only)
