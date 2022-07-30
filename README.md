@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I start coding after midnight.
 
 ---
-<br>
+
 ### Connect with me:
 
 [![website](./globe-light.svg)](https://sunroseshrestha.netlify.app#gh-light-mode-only)
