@@ -9,6 +9,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I start coding after midnight.
 
+---
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://sunroseshrestha.netlify.app#gh-light-mode-only)
