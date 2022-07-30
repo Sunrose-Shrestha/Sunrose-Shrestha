@@ -16,17 +16,17 @@
 [![website](./globe-light.svg)](https://sunroseshrestha.netlify.app#gh-light-mode-only)
 [![website](./globe-dark.svg)](https://sunroseshrestha.netlify.app#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCJ_-_Mw9_Y9h2R4Lcla7JHQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCJ_-_Mw9_Y9h2R4Lcla7JHQ#gh-dark-mode-only)
+[![website](./youtube-light.svg)](https://www.youtube.com/channel/UCJ_-_Mw9_Y9h2R4Lcla7JHQ#gh-light-mode-only)
+[![website](./youtube-dark.svg)](https://www.youtube.com/channel/UCJ_-_Mw9_Y9h2R4Lcla7JHQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/The_Sunrose#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/The_Sunrose#gh-dark-mode-only)
+[![website](./twitter-light.svg)](https://twitter.com/The_Sunrose#gh-light-mode-only)
+[![website](./twitter-dark.svg)](https://twitter.com/The_Sunrose#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sunrose-shrestha-3406781b6/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sunrose-shrestha-3406781b6/#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](https://linkedin.com/in/sunrose-shrestha-3406781b6/#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://linkedin.com/in/sunrose-shrestha-3406781b6/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/5_feet__11/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/5_feet__11/#gh-dark-mode-only)
+[![website](./instagram-light.svg)](https://instagram.com/5_feet__11/#gh-light-mode-only)
+[![website](./instagram-dark.svg)](https://instagram.com/5_feet__11/#gh-dark-mode-only)
 
 ---
 
