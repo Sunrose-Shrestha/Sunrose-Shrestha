@@ -25,8 +25,8 @@
 [![website](./linkedin-light.svg)](https://linkedin.com/in/sunrose-shrestha-3406781b6/#gh-light-mode-only)
 [![website](./linkedin-dark.svg)](https://linkedin.com/in/sunrose-shrestha-3406781b6/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://instagram.com/5_feet__11/#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://instagram.com/5_feet__11/#gh-dark-mode-only)
+[![website](./instagram-light.svg)](https://instagram.com/sunroseshrestsha/#gh-light-mode-only)
+[![website](./instagram-dark.svg)](https://instagram.com/sunroseshrestsha/#gh-dark-mode-only)
 
 ---
 
