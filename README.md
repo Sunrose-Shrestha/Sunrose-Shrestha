@@ -1,10 +1,10 @@
 ### Hello World, I am Sunrose 👋
 
-- 🔭 I’m currently a Software Engineer Intern at Ceptes Software Pvt Ltd.
+- 🔭 I’m currently working as Associate Software Developer at Ceptes Software Pvt Ltd.
 - 🌱 I’m currently learning Salesforce Development.
 - 👯 I’m looking to collaborate on developing an e-commerce site.
 - 🤔 I’m looking for help with sleeping early.
-- 💬 Ask me about PHP/Java/Python/JavaScript.
+- 💬 Ask me about Salesforce Development/PHP/Java/APIs/JavaScript.
 - 📫 How to reach me: shresthasunrose@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I start coding after midnight.
@@ -24,9 +24,7 @@
 &nbsp;&nbsp;
 [![website](./linkedin-light.svg)](https://linkedin.com/in/sunrose-shrestha-3406781b6/#gh-light-mode-only)
 [![website](./linkedin-dark.svg)](https://linkedin.com/in/sunrose-shrestha-3406781b6/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://instagram.com/sunroseshrestha/#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://instagram.com/sunroseshrestha/#gh-dark-mode-only)
+
 
 ---
 
@@ -40,5 +38,4 @@
 [website]: https://sunroseshrestha.netlify.app
 [twitter]: https://twitter.com/The_Sunrose
 [youtube]: https://www.youtube.com/channel/UCJ_-_Mw9_Y9h2R4Lcla7JHQ
-[instagram]: https://www.instagram.com/5_feet__11/
 [linkedin]: https://www.linkedin.com/in/sunrose-shrestha-3406781b6/
