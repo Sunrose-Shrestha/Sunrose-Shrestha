@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Salesforce Development.
 - 👯 I’m looking to collaborate on developing an e-commerce site.
 - 🤔 I’m looking for help with sleeping early.
-- 💬 Ask me about Salesforce Development/PHP/Java/APIs/JavaScript.
+- 💬 Ask me about Salesforce Development / PHP / Java / APIs / JavaScript.
 - 📫 How to reach me: shresthasunrose@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I start coding after midnight.
