@@ -22,8 +22,8 @@
 [![website](./twitter-light.svg)](https://twitter.com/The_Sunrose#gh-light-mode-only)
 [![website](./twitter-dark.svg)](https://twitter.com/The_Sunrose#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://linkedin.com/in/sunrose-shrestha-3406781b6/#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://linkedin.com/in/sunrose-shrestha-3406781b6/#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](https://linkedin.com/in/sunrose-shrestha/#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://linkedin.com/in/sunrose-shrestha/#gh-dark-mode-only)
 
 
 ---
