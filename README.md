@@ -1,7 +1,7 @@
 ### Hello World, I am Sunrose 👋
 
-- 🔭 I’m currently working as Associate Software Developer at Ceptes Software Pvt Ltd.
-- 🌱 I’m currently learning Salesforce Development.
+- 🔭 I’m currently working as Product Developer at XfilesPro Labs Pvt Ltd.
+- 🌱 I’m currently learning Salesforce Development with AI.
 - 👯 I’m looking to collaborate on developing an e-commerce site.
 - 🤔 I’m looking for help with sleeping early.
 - 💬 Ask me about Salesforce Development / PHP / Java / APIs / JavaScript.
